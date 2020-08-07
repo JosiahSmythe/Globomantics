@@ -7,5 +7,6 @@ namespace Globomantics.Services
 {
     public interface IConferenceService
     {
+        //Task<IEnumerable<ConferenceMod>>
     }
 }

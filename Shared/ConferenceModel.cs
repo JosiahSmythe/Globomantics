@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Text;
 using System.Threading;
 
-namespace Shared
+namespace Shared.Models
 {
     public class ConferenceModel
     {
